@@ -1,0 +1,5 @@
+python-raven (1.4.3) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Joe Stump <joe@joestump.net>  Sat, 18 Feb 2012 17:50:21 +0000
